@@ -1,0 +1,49 @@
+Backtest Summary
+AUDNZD BGN Curncy from 2009-09-19 to 2017-02-09
+Holding Period: 3
+Signal: Engulf1.0
+Parameter: (1.7, 0.7)
+Total Hits: 10
+Total Wins: 5
+Hit Rate: 0.5
+Cum Return: -2.56815727591e-05
+Max Return: 0.0155066714749
+Average Drawdown:-0.00988270412245
+Max Drawdown: -0.0224618949996
+
+AUDNZD BGN Curncy from 2009-09-19 to 2017-02-09
+Holding Period: 3
+Signal: Engulf1.1
+Parameter: (1.25, 0.7)
+Total Hits: 44
+Total Wins: 21
+Hit Rate: 0.477272727273
+Cum Return: -0.0285026817285
+Max Return: 0.0181238615665
+Average Drawdown:-0.00752499327166
+Max Drawdown: -0.0224618949996
+
+AUDNZD BGN Curncy from 2009-09-19 to 2017-02-09
+Holding Period: 3
+Signal: Engulf1.2
+Parameter: (1.15, 0.6)
+Total Hits: 63
+Total Wins: 31
+Hit Rate: 0.492063492063
+Cum Return: 0.00161383853787
+Max Return: 0.0181238615665
+Average Drawdown:-0.00620239198065
+Max Drawdown: -0.0224618949996
+
+AUDNZD BGN Curncy from 2009-09-19 to 2017-02-09
+Holding Period: 3
+Signal: Hammer1.0
+Parameter: (0.3, 0.42, 0.3, 2, 0.4)
+Total Hits: 48
+Total Wins: 21
+Hit Rate: 0.4375
+Cum Return: -0.0167702698935
+Max Return: 0.0228104320747
+Average Drawdown:-0.00576432696499
+Max Drawdown: -0.0173983084978
+

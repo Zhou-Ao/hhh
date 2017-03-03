@@ -1,0 +1,37 @@
+Backtest Summary
+EURUSD BGN Curncy from 2009-09-27 to 2017-02-17
+Holding Period: 3
+Signal: Hammer1.0
+Parameter: (0.8, 0.38, 0.28, 2, 0.35)
+Total Hits: 69
+Total Wins: 37
+Hit Rate: 0.536231884058
+Cum Return: 0.0514215521508
+Max Return: 0.0301322512774
+Average Drawdown:-0.00795138895397
+Max Drawdown: -0.0185633575464
+
+EURUSD BGN Curncy from 2009-09-27 to 2017-02-17
+Holding Period: 3
+Signal: Hammer2.0
+Parameter: (0.8, 0.44, 0.55, 0.7)
+Total Hits: 41
+Total Wins: 23
+Hit Rate: 0.560975609756
+Cum Return: 0.00885669268839
+Max Return: 0.0270988702651
+Average Drawdown:-0.00925634543593
+Max Drawdown: -0.0270119743804
+
+EURUSD BGN Curncy from 2009-09-27 to 2017-02-17
+Holding Period: 3
+Signal: Hammer3.0
+Parameter: (0.8, 0.5, 0.15, 0.2, 0.7)
+Total Hits: 18
+Total Wins: 13
+Hit Rate: 0.722222222222
+Cum Return: 0.0830134303485
+Max Return: 0.0189357084051
+Average Drawdown:-0.00499887962714
+Max Drawdown: -0.0143820891096
+

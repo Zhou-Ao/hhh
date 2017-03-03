@@ -1,0 +1,13 @@
+Candlestick Simple Signal Generation
+24/07/2017 Zhou Ao
+
+1. Config python script project path
+a. Open simpleSignalDaily.py and simpleSignalWeekly.py
+b. Replace 'U:/Python Project/MagicCandle/' with your MagicCandle project directory
+
+2. Config window batch file path
+a. Open runSimpleDailySignal.bat and runSimpleWeeklySignal.bat
+b. Replace 'U:' with the drive of your MagicCandle project directory
+c. Replace 'U:\Python Project\MagicCandle\signal' with your MagicCandle\signal folder
+
+3. You are ready. Double click runSimpleDailySignal.bat and runSimpleWeeklySignal.bat, signals are located at MagicCandle\signal\Signals folder
